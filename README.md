@@ -1,2 +1,2 @@
 # AssemblyLab
-Cooking delicious assembly cookies...
+Assembly tryouts
